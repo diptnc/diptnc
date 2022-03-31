@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://diptanuchakraborty.in](https://diptanuchakraborty.in)
 
-- 📝 I regularly write articles on [https://blogs.diptanuchakraborty.in](https://diptanuchakraborty.in)
+- 📝 I regularly write articles on [https://blogs.diptanuchakraborty.in](https://blogs.diptanuchakraborty.in)
 
 - 📫 How to reach me **chakrabortyd943@gmail.com**
 
