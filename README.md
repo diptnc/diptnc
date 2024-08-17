@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/diptnc" target="blank"><img src="https://img.shields.io/twitter/follow/diptnc?logo=twitter&style=for-the-badge" alt="diptnc" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently a **Web Developer**
 
 - 👨‍💻 All of my projects are available at [https://diptanuchakraborty.in](https://diptanuchakraborty.in)
 
-- 📝 I regularly write articles on [https://blogs.diptanuchakraborty.in](https://blogs.diptanuchakraborty.in)
+- 📝 I regularly write articles on [https://diptanuchakraborty.in/blog](https://diptanuchakraborty.in/blog?page=1)
 
 - 📫 How to reach me **chakrabortyd943@gmail.com**
 
-- 📄 Know about my experiences [https://diptanuchakraborty.in](https://diptanuchakraborty.in)
+- 📄 Know about my experiences [https://diptanuchakraborty.in](https://diptanuchakraborty.in/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
